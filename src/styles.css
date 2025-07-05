@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.weather-list li {
+  margin-bottom: 5px;
+  text-align: justify;
+}
+
+.icon-item {
+  align-items: center;
+}
+
+.weather-icon {
+  width: 60px;
+  height: auto;
+  margin-left: 5px;
+}
+
+.unit-toggle {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: bold;
+  margin-left: 4px;
+}
